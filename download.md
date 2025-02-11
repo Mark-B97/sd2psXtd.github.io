@@ -12,7 +12,7 @@
     </div>
     <div class="col-12 col-md-10 d-flex flex-column flex-justify-center flex-items-center flex-md-items-start pl-md-4">
       <h2 class="text-normal lh-condensed">SD2PSX</h2>
-      <p class="h4 color-fg-muted text-normal mb-2">a DIY SD2PSX</p>
+      <p class="h4 color-fg-muted text-normal mb-2">a homemade SD2PSX</p>
       <a class="color-fg-muted text-small">The classic one</a>
       <!--<a class="" href="https://github.com/sd2psXtd/firmware/releases/download/1.0.0/sd2psx.uf2">Download firmware</a>--->
   <div class="BtnGroup d-block mb-2">
@@ -31,8 +31,8 @@
     </div>
     <div class="col-12 col-md-10 d-flex flex-column flex-justify-center flex-items-center flex-md-items-start pl-md-4">
       <h2 class="text-normal lh-condensed">PSXMemCard Gen2</h2>
-      <p class="h4 color-fg-muted text-normal mb-2">SD2PSX: produced by BitFunx!</p>
-      <a class="color-fg-muted text-small">Professional production by a company known to make quality PS2 peripherals</a>
+      <p class="h4 color-fg-muted text-normal mb-2">Same as the above, but produced by BitFunX</p>
+      <a class="color-fg-muted text-small">Professionally produced by BitFunX, a company known to make quality retro gaming peripherals and mods.</a>
     <div class="BtnGroup d-block mb-2">
         <a class="BtnGroup-item btn btn-outline" type="button"href="https://github.com/sd2psXtd/firmware/releases/download/1.0.0/sd2psx.uf2">Firmware</a>
         <a class="BtnGroup-item btn btn-outline" type="button"href="https://github.com/sd2psXtd/firmware/releases/download/1.0.0/sd2psx-debug.uf2">Debug Firmware</a>
@@ -67,7 +67,7 @@
     </div>
     <div class="col-12 col-md-10 d-flex flex-column flex-justify-center flex-items-center flex-md-items-start pl-md-4">
       <h2 class="text-normal lh-condensed">PicoMemcard+</h2>
-      <p class="h4 color-fg-muted text-normal mb-2">Made by dangiu, enhanced by SD2PSX Firmware</p>
+      <p class="h4 color-fg-muted text-normal mb-2">Project made by dangiu, enhanced by SD2PSX Firmware</p>
       <a class="color-fg-muted text-small">DIY project built on top of rp2040-zero</a>
     <div class="BtnGroup d-block mb-2">
         <a class="BtnGroup-item btn btn-outline" type="button" href="https://github.com/sd2psXtd/firmware/releases/download/1.0.0/pmc+.uf2">Firmware Pico</a>
